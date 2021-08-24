@@ -1,0 +1,26 @@
+{
+  "name": "simple-koa-app",
+  "version": "1.0.0",
+  "description": "simple",
+  "main": "src/app.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "koa": "^2.13.1",
+    "koa-router": "^10.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.prod.hulu.com:CustomerPlatform/simple-koa-app.git"
+  },
+  "keywords": [
+    "koa",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
